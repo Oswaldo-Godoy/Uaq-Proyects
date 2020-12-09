@@ -1,0 +1,15 @@
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.csprojAssemblyReference.cache
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.Login.resources
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.Registro.resources
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.Properties.Resources.resources
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.csproj.GenerateResource.cache
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.csproj.CoreCompileInputs.cache
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\bin\Debug\Proyecto.F.exe.config
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\bin\Debug\Proyecto.F.exe
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\bin\Debug\Proyecto.F.pdb
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.exe
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.pdb
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.Alta_D.resources
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.Cambios_Bjas.resources
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.Creditos.resources
+C:\Users\zkyri\source\repos\Proyecto.F\Proyecto.F\obj\Debug\Proyecto.F.Menu_Principal.resources
